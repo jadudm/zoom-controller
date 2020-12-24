@@ -67,7 +67,7 @@ class Button:
 
 objs = []
 buttons = [board.D3, board.D4, board.D5]
-commands = [AUDIO, VIDEO, EMERGENCY]
+commands = [EMERGENCY, AUDIO, VIDEO, ]
 colors = [RED, GREEN, BLUE]
 
 print("Setting up buttons...")
